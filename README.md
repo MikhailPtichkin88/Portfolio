@@ -1,3 +1,3 @@
-# Portfolio
-Portfolio landing page src
+# Portfolio landing page
+
 js and scss src files
